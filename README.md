@@ -1,2 +1,58 @@
-# Power-BI-ecommerce-business-performance-report
-5-page business performance report built in Power BI analysing more than ~99,000 real orders from Olist — Brazil's largest e-commerce marketplace. Covers revenue growth, customer retention, delivery operations and product freight economics across 7 joined tables.
+Business Performance Report
+Copy this into your Olist GitHub repo README
+
+Olist E-Commerce Business Performance Report
+Power BI | 7 Joined Tables | ~99,000 Orders | Real Data | 2016–2018
+
+Found a real e-commerce dataset on Kaggle and decided to go deep on it. Olist is Brazil's largest marketplace — connects small sellers to buyers across 27 states. The data covers 2 full years of real transactions. I wanted to understand not just what the numbers were, but what they meant for the business. So I built a 4-page analytical report and a full business case study to go with it.
+
+🎥 Video Walkthrough
+I put together a full video walkthrough of this report — covering every page, every chart, the DAX measures I built from scratch, and the business insights I found. It's the fastest way to understand what's in here. Worth watching before you open the files.
+👉 Watch the Full Report Walkthrough ← replace with your Loom link
+
+Report Pages
+Page 1 — Business Overview
+Revenue trends, order volume, top categories, fulfillment funnel.
+The headline: monthly revenue grew 700%+ year-on-year from 2017 to 2018.
+Page 2 — Customer & Geographic Intelligence
+Where customers are, how they pay, installment behavior.
+São Paulo drives ~37% of revenue — geographic concentration risk identified.
+Page 3 — Operations & Retention
+Delivery performance by state, satisfaction scores, retention analysis.
+The critical finding: 3.12% repeat rate vs 25–30% industry benchmark.
+Page 4 — Product & Freight Economics
+Freight cost as % of product price across all categories.
+Home comfort category: customers pay ~53 cents shipping per $1 of product.
+
+📄 Documents
+FileDescriptionReport PDFFull 4-page Power BI reportPBIX FileOriginal Power BI file — open in Power BI DesktopBusiness Case StudyFull analytical case study with recommendationsFull PreviewStitched PNG of all report pages
+
+Key Findings
+
+3.12% repeat rate — 97% of ~96,000 customers never returned. Industry benchmark: 25–30%
+700%+ revenue growth — January 2017 to January 2018. Platform was genuinely scaling
+SP concentration risk — São Paulo drives ~37% of GMV. Single-state dependency is a vulnerability
+Delivery ≠ Satisfaction — BA state delivers ~33 days early but scores the lowest satisfaction rating. Product quality matters more than speed
+Cash flow lag — 78% credit card + ~2.6 avg installments = 2–3 month payment collection delay after delivery
+Freight problem — Home comfort category: ~53% freight-to-price ratio. Conversion killer on cheap products
+
+
+Technical Details
+Tool: Microsoft Power BI Desktop
+Data Model: Star schema — 7 tables joined with olist_orders as central fact table
+Custom DAX Measures Built:
+
+Avg Order Value
+Repeat Purchase Rate
+Delivery Delay Days
+Freight to Price Ratio
+New Customer Orders
+Repeat Customer Orders
+
+Dataset: Brazilian E-Commerce Public Dataset by Olist — Kaggle
+Real transaction data. September 2016 to August 2018.
+Note: ~$16M represents platform GMV not Olist's actual revenue.
+Olist earns ~12–15% commission = estimated ~$1.9–2.4M actual revenue.
+
+Repo Structure
+FolderContentsReportPBIX file + PDF exportCase StudyBusiness case study PDFDataAll 7 source CSV filesPreviewFull stitched PNG preview
