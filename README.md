@@ -1,5 +1,3 @@
----
-
 # Olist E-Commerce Business Performance Report
 ### Power BI | 7 Joined Tables | ~99,000 Orders | Real Data | 2016–2018
 
