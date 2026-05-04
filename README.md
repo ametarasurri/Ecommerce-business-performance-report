@@ -14,7 +14,7 @@ I put together a full video walkthrough of this report — covering every page, 
 👉 [Watch the Full Report Walkthrough](https://www.loom.com/share/6e120bc8d89a49a4af28072214cc5db5) 
 ---
 
-Report Details
+## Report Details
 
 **Business Overview**
 Revenue trends, order volume, top categories, fulfillment funnel.
