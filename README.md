@@ -3,7 +3,7 @@
 
 ---
 
-Found a real e-commerce dataset on Kaggle and decided to go deep on it. Olist is Brazil's largest marketplace — connects small sellers to buyers across 27 states. The data covers 2 full years of real transactions. I wanted to understand not just what the numbers were, but what they meant for the business. So I built a 4-page analytical report and a full business case study to go with it.
+Found a real e-commerce dataset on Kaggle and decided to go deep on it. Olist is Brazil's largest marketplace — connects small sellers to buyers across 27 states. The data covers 2 full years of real transactions. I wanted to understand not just what the numbers were, but what they meant for the business. So I built a 5-page analytical report and a full business case study to go with it.
 
 ---
 
@@ -72,7 +72,7 @@ Olist earns ~12–15% commission = estimated ~$1.9–2.4M actual revenue.
 | Folder | Contents |
 |--------|----------|
 | [Report](./Report) | PBIX file + PDF export |
-| [Data](./Data) | All 7 source CSV files |
+| [Data](./Dataset) | All 7 source CSV files |
 | [Image Preview](./Image%20Preview) | Full stitched PNG preview |
 
 ---
