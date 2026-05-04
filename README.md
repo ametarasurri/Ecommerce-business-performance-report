@@ -14,21 +14,21 @@ I put together a full video walkthrough of this report — covering every page, 
 👉 [Watch the Full Report Walkthrough](https://www.loom.com/share/6e120bc8d89a49a4af28072214cc5db5) 
 ---
 
-## Report Pages
+Report Details
 
-**Page 1&2 — Business Overview**
+**Business Overview**
 Revenue trends, order volume, top categories, fulfillment funnel.
 The headline: monthly revenue grew 700%+ year-on-year from 2017 to 2018.
 
-**Page 2 — Customer & Geographic Intelligence**
+**Customer & Geographic Intelligence**
 Where customers are, how they pay, installment behavior.
 São Paulo drives ~37% of revenue — geographic concentration risk identified.
 
-**Page 3 — Operations & Retention**
+**Operations & Retention**
 Delivery performance by state, satisfaction scores, retention analysis.
 The critical finding: 3.12% repeat rate vs 25–30% industry benchmark.
 
-**Page 4 — Product & Freight Economics**
+**Product & Freight Economics**
 Freight cost as % of product price across all categories.
 Home comfort category: customers pay ~53 cents shipping per $1 of product.
 
@@ -59,8 +59,8 @@ Home comfort category: customers pay ~53 cents shipping per $1 of product.
 - New Customer Orders
 - Repeat Customer Orders
 
-**Dataset:** Brazilian E-Commerce Public Dataset by Olist — Kaggle
-Real transaction data. September 2016 to August 2018.
+**Dataset:** Brazilian E-Commerce Public Dataset by Olist —
+Real transaction data downloaded via Kaggle. September 2016 to August 2018.
 
 **Note:** ~$16M represents platform GMV not Olist's actual revenue.
 Olist earns ~12–15% commission = estimated ~$1.9–2.4M actual revenue.
